@@ -1,0 +1,1 @@
+                    char top = stack.peek();
